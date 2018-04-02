@@ -1,0 +1,15 @@
+commit 7e1c6a6f2f6865ffdbb80cc0cd8768e67df15350
+Author: Michael Baez <michael.baez.mendoza1991@gmail.com>
+Date:   Wed Oct 18 11:39:40 2017 -0500
+
+    
+Ejemplo avance
+
+
+
+commit 4ab93fdcee8c1b5474b57331cf20290e9fdcf34f
+Author: Michael Baez <michael.baez.mendoza1991@gmail.com>
+Date:   Wed Oct 18 10:37:10 2017 -0500
+
+    
+Inicio API Coordinadora
