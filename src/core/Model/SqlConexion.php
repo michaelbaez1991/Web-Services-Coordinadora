@@ -6,10 +6,10 @@ class SqlConexion {
 
   public function __construct(){
     if(!($this->conexion)){
-      $serverName = '181.49.4.186, 1433';
-      $Database = "KRONO";
-      $UID = "SA";
-      $PWD = "KRONOTIMEbogota014";
+      $serverName = "";
+      $Database = "";
+      $UID = "";
+      $PWD = "";
 
       $conexionInfo = array( "Database"=>$Database, "UID"=>$UID, "PWD"=>$PWD,"CharacterSet" => "UTF-8");
       $this->conexion = sqlsrv_connect($serverName, $conexionInfo);
