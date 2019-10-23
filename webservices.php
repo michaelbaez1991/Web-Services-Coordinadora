@@ -3,11 +3,8 @@
 	require_once ("src/nusoap.php");
 	
 	class CoordinadoraWsldClient {
-		const usuario = "kronotime.ws"; //Usuario coordinadora WS Generacion de guias
-		const clave   = "Kt89u!y?gt"; //Clave coordinadora WS Generacion de guias
-		
-		//const apikey = "19546fa6-5755-11e7-907b-a6006ad3dba0"; //Usuario coordinadora WS Generacion de guias
-		//const clave   = "L69T|4!bWYn2Lc"; //Clave coordinadora WS Generacion de guias
+		const usuario = ""; //Usuario coordinadora WS Generacion de guias
+		const clave   = ""; //Clave coordinadora WS Generacion de guias
 
 		const uriWsdl = "http://guias.coordinadora.com/ws/guias/1.5/server.php?wsdl"; //WS Generacion de guias
 		//const uriWsdl = "http://sandbox.coordinadora.com/ags/1.4/server.php?wsdl"; //WS Seguimiento de despachos
